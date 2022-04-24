@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clicked{
+    left: 0px;
+    background-color: aliceblue;
+    width: fit-content;
+}
+
